@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhanvic
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning php fullstack
+- 👀 I’m a Front-end JavaScript Web Developer
+- 🌱 I’m currently learning React Web developing
 
 
 <!---
